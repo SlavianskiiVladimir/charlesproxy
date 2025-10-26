@@ -2,7 +2,8 @@
 
 Используя Charles Proxy, я протестировал <a href="https://intern.demoshopping.ru/"> "Интернет-магазин"</a>. В компьютерном и мобильном браузере. 
 
-Посмотрите следующие видеоролики, в которых я изменяю данные с помощью прокси-сервера для веб-сайта в Google Chrome на <a href="https://drive.google.com/file/d/1FoX3lxg0bGv9s1HEOqzacDbBNEpMnA28/view?usp=sharing"><b> ПК с Windows 10 </b>:</a>  
+Посмотрите следующие видеоролики, в которых я изменяю данные с помощью прокси-сервера для веб-сайта в Google Chrome на <a href="https://drive.google.com/file/d/1FoX3lxg0bGv9s1HEOqzacDbBNEpMnA28/view?usp=sharing">
+<b> ПК с Windows 10 </b>:</a>  
  <ul>
 <li>  <a>Изменение количества товаров в корзине. </a>  По запросу отправляется 2 товара, а в ответ возвращается 500. </li> 
 <li>  <a> Изменение статуса ответа с 200 на 403. </a>  </li> 

@@ -2,7 +2,7 @@
 
 Используя Charles Proxy, я протестировал <a href="http://demowebshop.tricentis.com/cart"> корзину интернет-магазина.</a>. 
 
-Посмотрите следующие видеоролики, в которых я изменяю данные с помощью прокси-сервера для веб-сайта в Google Chrome на <b> ПК с Windows 10 </b>:  
+<a href="https://drive.google.com/file/d/1FoX3lxg0bGv9s1HEOqzacDbBNEpMnA28/view?usp=sharing">Посмотрите следующие видеоролики, в которых я изменяю данные с помощью прокси-сервера для веб-сайта в Google Chrome</a> на <b> ПК с Windows 10 </b>:  
 <ul>
  <li>  <a href="https://drive.google.com/file/d/1FoX3lxg0bGv9s1HEOqzacDbBNEpMnA28/view?usp=sharing"></a>  </li>
 <li>  <a>Изменение количества товаров в корзине. </a>  По запросу отправляется 2 товара, а в ответ возвращается 500. </li> 
